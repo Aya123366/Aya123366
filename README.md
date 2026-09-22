@@ -1,20 +1,14 @@
-<p align="center">
-  <a href="https://anuraghazra.github.io">
-    <img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" />
-  </a>
-</p>
-<br />
-
-I'm an Engineering Student in Computer Science, specializing in Data Science, from Algeria 🇩🇿
+## Hello I'm Aya.EL
 
 ### **About me**
 
 * 🎓 Engineering Student in Computer Science | Data Science
+  
 * 📍 University of Badji Mokhtar – Annaba, Algeria
+  
 * 📊 Interested in Data Science, Data Analysis, Artificial Intelligence and Machine Learning
+  
 * 💻 I also enjoy Web Development, Computer Networks and Cybersecurity
-* 🌱 Continuously learning and building projects to improve my skills
-* 🚀 Interested in turning data into useful insights and applications
 
 ### **🛠️ Technologies & Skills**
 
