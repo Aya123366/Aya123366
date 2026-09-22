@@ -1,7 +1,8 @@
 <p align="center">
-  <img width="80%" alt="Hello, I'm Aya.EL" src="./assets/gh-readme-header.png" />
+  <a href="https://anuraghazra.github.io">
+    <img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" />
+  </a>
 </p>
-
 <br />
 
 I'm an Engineering Student in Computer Science, specializing in Data Science, from Algeria 🇩🇿
@@ -31,10 +32,9 @@ I'm an Engineering Student in Computer Science, specializing in Data Science, fr
 
 **Databases**
 
-<code><img height="25" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="25" alt="SQL" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
 
 * SQL
-* MySQL
 * Relational Databases
 
 **Web Development**
@@ -86,11 +86,11 @@ I'm an Engineering Student in Computer Science, specializing in Data Science, fr
 
 ### **📫 Connect with me**
 
-<a href="https://github.com/[Your GitHub Username]">
+<a href="https://github.com/[Aya123366]">
   <img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" />
 </a>
 
-<a href="[Your LinkedIn Profile]">
+<a href="[Aya123366]">
   <img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a>
 
