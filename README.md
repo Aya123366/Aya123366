@@ -68,16 +68,6 @@
 * 🌐 Web Development
 * 🔐 Network & Security
 
-### **📊 GitHub Stats**
-
-<a href="https://github.com/[Your GitHub Username]/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aya.EL's GitHub stats" />
-</a>
-
-<a href="https://github.com/[Your GitHub Username]/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=buefy&hide_border=true" />
-</a>
-
 ### **📫 Connect with me**
 
 <a href="https://github.com/[Aya123366]">
