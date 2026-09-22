@@ -75,6 +75,6 @@
 </a>
 
 <a href="[Aya123366]">
-  <img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3ByvV4s%2FADSc2Xx2mDmI5MPg%3D%3D
 </a>
 
